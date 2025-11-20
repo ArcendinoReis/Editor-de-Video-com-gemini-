@@ -1,0 +1,5 @@
+{
+  "name": "AI Video Creator",
+  "description": "An automatic video generator application inspired by CapCut. Generate scripts, scenes, images (Imagen 4/Nano Banana), and voiceovers (Gemini TTS) to create engaging video content automatically.",
+  "requestFramePermissions": []
+}
